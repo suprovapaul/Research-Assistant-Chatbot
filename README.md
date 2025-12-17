@@ -1,4 +1,4 @@
-# Research Assistant Chatbot
+# Research Assistant Chatbot (Groq)
 
 A research-oriented AI assistant built using a Large Language Model (Llama-3.3-70B via Groq) to support academic workflows.
 
@@ -21,3 +21,4 @@ python groqresearchbot.py
 
 ## Notes
 This project is intended for academic and research use.
+
